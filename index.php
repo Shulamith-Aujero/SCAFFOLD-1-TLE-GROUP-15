@@ -24,7 +24,7 @@
 <img src="miss lili.png" height="280" width"850">
 <table border="3" cellpadding="13" cellspacing="5">
 <tr> 
-	<td bgcolor="CCB5FB"> <font size="18"> <a href=" ">Click here to access Performance Task</a>
+	<td bgcolor="CCB5FB"> <font size="18"> <a href="CLE PT.html">Click here to access Performance Task</a>
 </tr> </table> </font>
 
 <br>
