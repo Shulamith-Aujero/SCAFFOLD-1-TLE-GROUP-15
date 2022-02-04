@@ -1,7 +1,7 @@
 <html>
 <header> <title> TLE Scaffold 1; 3rd Quarter </title> </header>
 
-<body background="lol.gif"> 
+<body background="lol.gif" a link="blue" vlink="yelllow"> 
 <center>
 <img src="header.png" height="280" width="1350">
 
