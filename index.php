@@ -13,7 +13,7 @@
 <img src="teachers.png" height="280" width"850">
 <table border="3" cellpadding="13" cellspacing="5">
 <tr>
-	<td bgcolor="9CECFF"> <font size="18"> <a style = "color:#013220" href="MATH PT.html">Click here to access Performance Task </a> </td>
+	<td bgcolor="9CECFF"> <font size="18"> <a style = "color:#4C9A2A" href="MATH PT.html">Click here to access Performance Task </a> </td>
 </tr> </table> </font>
 
 <br>
@@ -36,7 +36,7 @@
 <table border="3" cellpadding="13" cellspacing="5">
 <tr>
 	 
-	<td bgcolor="#c0eca3"><font size="30"> <a style = "color:#8B0000" href="CAE PT.html">Click here to access Performance Task </a>
+	<td bgcolor="#c0eca3"><font size="30"> <a style = "color:#253BA1" href="CAE PT.html">Click here to access Performance Task </a>
  <tr> </table> </font>
 
 <br>
