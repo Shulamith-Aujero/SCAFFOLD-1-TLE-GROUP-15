@@ -1,7 +1,7 @@
 <html>
 <header> <title> TLE Scaffold 1; 3rd Quarter </title> </header>
 
-<body background="lol.gif" a link="blue" vlink="yelllow"> 
+<body background="lol.gif"> 
 <center>
 <img src="header.png" height="280" width="1350">
 
@@ -13,7 +13,7 @@
 <img src="teachers.png" height="280" width"850">
 <table border="3" cellpadding="13" cellspacing="5">
 <tr>
-	<td bgcolor="9CECFF"> <font size="18"> <a href="MATH PT.html">Click here to access Performance Task </a> </td>
+	<td bgcolor="9CECFF"> <font size="18"> <a style = "color:yellow" href="MATH PT.html">Click here to access Performance Task </a> </td>
 </tr> </table> </font>
 
 <br>
