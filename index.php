@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<img src="teachers.png" height="280" width"850">
+<img src="sirpax.png" height="280" width"850">
 <table border="3" cellpadding="13" cellspacing="5">
 <tr>
 	<td bgcolor="9CECFF"> <font size="18"> <a style = "color:#4C9A2A" href="MATH PT.html">Click here to access Performance Task </a> </td>
@@ -85,7 +85,7 @@ p
 <font size="6">
 
 <center>
-<font color="#FDFD96">
+<font color="#FE7D68">
 <img src="me.jpg" heigth="80" width="80"> <br>
 Shulamith M. Aujero
 </center>
